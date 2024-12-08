@@ -13,9 +13,6 @@ Welcome to the QuantumPi Nexus user guide! This document will help you navigate 
 2. **Logging In**:
    - Use your registered email and password to log in to the platform.
 
-3.### docs/user_guide.md (continued)
-
-```markdown
 3. **Dashboard Overview**:
    - The dashboard provides an overview of your account balance, transaction history, and available features.
 

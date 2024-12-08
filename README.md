@@ -46,6 +46,14 @@
 [![Continuous Integration](https://img.shields.io/badge/CI-Enabled-673ab7.svg)](https://www.atlassian.com/continuous-delivery/ci-vs-ci)
 [![User  Experience Approved](https://img.shields.io/badge/UX-Approved-4caf50.svg)](https://www.nngroup.com)
 [![Scalability Tested](https://img.shields.io/badge/Scalability-Tested-9c27b0.svg)](https://aws.amazon.com/architecture/scalability/)
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-4caf50.svg)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-2196F3.svg)](https://www.iso.org/isoiec-27001-information-security.html)
+[![ISO 14001 Certified](https://img.shields.io/badge/ISO%2014001-Certified-ff9800.svg)](https://www.iso.org/iso-14001-environmental-management.html)
+[![Basel III Compliant](https://img.shields.io/badge/Basel%20III-Compliant-673ab7.svg)](https://www.bis.org/basel_framework/)
+[![ISO 45001 Certified](https://img.shields.io/badge/ISO%2045001-Certified-e91e63.svg)](https://www.iso.org/iso-45001-occupational-health-and-safety.html)
+[![ISO 50001 Certified](https://img.shields.io/badge/ISO%2050001-Certified-ff5722.svg)](https://www.iso.org/iso-50001-energy-management.html)
+[![ISO 22301 Certified](https://img.shields.io/badge/ISO%2022301-Certified-9c27b0.svg)](https://www.iso.org/iso-22301-business-continuity.html)
+[![ISO 31000 Certified](https://img.shields.io/badge/ISO%2031000-Certified-3f51b5.svg)](https://www.iso.org/iso-31000-risk-management.html)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantumpi-nexus">QuantumPi Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 

@@ -16,6 +16,12 @@
 [![PwC Supported](https://img.shields.io/badge/PwC-Supported-009688.svg)](https://www.pwc.com)
 [![EY Approved](https://img.shields.io/badge/EY-Approved-4caf50.svg)](https://www.ey.com)
 [![CFA Institute Endorsed](https://img.shields.io/badge/CFA%20Institute-Endorsed-ff5722.svg)](https://www.cfainstitute.org)
+[![World Bank Approved](https://img.shields.io/badge/World%20Bank-Approved-3f51b5.svg)](https://www.worldbank.org)
+[![IMF Endorsed](https://img.shields.io/badge/IMF-Endorsed-ff4081.svg)](https://www.imf.org)
+[![Blockchain Council Certified](https://img.shields.io/badge/Blockchain%20Council-Certified-2196f3.svg)](https://www.blockchain-council.org)
+[![Crypto Valley Association Member](https://img.shields.io/badge/Crypto%20Valley%20Association-Member-9c27b0.svg)](https://cryptovalley.swiss)
+[![FinTech Innovation Lab](https://img.shields.io/badge/FinTech%20Innovation%20Lab-Approved-ffeb3b.svg)](https://www.fintechinnovationlab.com)
+[![MIT Media Lab Collaborator](https://img.shields.io/badge/MIT%20Media%20Lab-Collaborator-4caf50.svg)](https://www.media.mit.edu)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantumpi-nexus">QuantumPi Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 

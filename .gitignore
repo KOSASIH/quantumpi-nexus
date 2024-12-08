@@ -1,2 +1,34 @@
-# Google App Engine generated folder
-appengine-generated/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+venv/
+env/
+ENV/
+env.bak/
+*.egg
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Environment variables
+.env

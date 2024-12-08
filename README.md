@@ -22,6 +22,14 @@
 [![Crypto Valley Association Member](https://img.shields.io/badge/Crypto%20Valley%20Association-Member-9c27b0.svg)](https://cryptovalley.swiss)
 [![FinTech Innovation Lab](https://img.shields.io/badge/FinTech%20Innovation%20Lab-Approved-ffeb3b.svg)](https://www.fintechinnovationlab.com)
 [![MIT Media Lab Collaborator](https://img.shields.io/badge/MIT%20Media%20Lab-Collaborator-4caf50.svg)](https://www.media.mit.edu)
+[![TechCrunch Featured](https://img.shields.io/badge/TechCrunch-Featured-e91e63.svg)](https://techcrunch.com)
+[![Forbes Innovation Award](https://img.shields.io/badge/Forbes-Innovation%20Award-ff5722.svg)](https://www.forbes.com)
+[![Gartner Cool Vendor](https://img.shields.io/badge/Gartner-Cool%20Vendor-00bcd4.svg)](https://www.gartner.com)
+[![IEEE Standards Association](https://img.shields.io/badge/IEEE-Standards%20Association-673ab7.svg)](https://standards.ieee.org)
+[![W3C Compliant](https://img.shields.io/badge/W3C-Compliant-4caf50.svg)](https://www.w3.org)
+[![OpenAI Partnership](https://img.shields.io/badge/OpenAI-Partnership-ff9800.svg)](https://openai.com)
+[![NIST Certified](https://img.shields.io/badge/NIST-Certified-3f51b5.svg)](https://www.nist.gov)
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-9c27b0.svg)](https://www.iso.org)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantumpi-nexus">QuantumPi Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 

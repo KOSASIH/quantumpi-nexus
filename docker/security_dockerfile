@@ -1,0 +1,21 @@
+# security_dockerfile for security tools and audits
+
+# Use a base image with security tools
+FROM kalilinux/kali-rolling
+
+# Update and install security tools
+RUN apt-get update && apt-get install -y \
+    nmap \
+    nikto \
+    sqlmap \
+    burpsuite \
+    && apt-get clean
+
+# Set the working directory
+WORKDIR /security-tools
+
+# Copy any necessary scripts or configurations
+COPY ./security-scripts/ .
+
+# Command to run security audits (example)
+CMD ["bash"]

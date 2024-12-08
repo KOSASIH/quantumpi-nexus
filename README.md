@@ -1,2 +1,2 @@
 # quantumpi-nexus
-The core repository for QuantumPi Nexus, a groundbreaking stablecoin project that integrates quantum computing with the Pi Network.
+The core repository for QuantumPi Nexus, a groundbreaking stablecoin project that integrates quantum computing with the Pi Network. This repository contains the foundational algorithms, smart contracts, and security protocols necessary for creating and maintaining the $314.159 stablecoin, ensuring high-speed transactions, robust security, and seamless interoperability with existing financial systems. Join us in revolutionizing the future of digital currency!

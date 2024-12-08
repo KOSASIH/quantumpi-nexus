@@ -30,6 +30,14 @@
 [![OpenAI Partnership](https://img.shields.io/badge/OpenAI-Partnership-ff9800.svg)](https://openai.com)
 [![NIST Certified](https://img.shields.io/badge/NIST-Certified-3f51b5.svg)](https://www.nist.gov)
 [![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-9c27b0.svg)](https://www.iso.org)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-blue.svg)](https://gdpr-info.eu)
+[![CMMI Level 3](https://img.shields.io/badge/CMMI-Level%203-orange.svg)](https://cmmiinstitute.com)
+[![DevOps Ready](https://img.shields.io/badge/DevOps-Ready-ff5722.svg)](https://www.devops.com)
+[![Cloud Native](https://img.shields.io/badge/Cloud%20Native-Approved-00bcd4.svg)](https://cloudnative.foundation)
+[![Blockchain Verified](https://img.shields.io/badge/Blockchain-Verified-673ab7.svg)](https://www.blockchain.com)
+[![AI Ethics Approved](https://img.shields.io/badge/AI%20Ethics-Approved-4caf50.svg)](https://www.aiforhumanity.org)
+[![Cybersecurity Certified](https://img.shields.io/badge/Cybersecurity-Certified-9c27b0.svg)](https://www.cybersecurity.gov)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantumpi-nexus">QuantumPi Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 

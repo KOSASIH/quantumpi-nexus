@@ -54,6 +54,16 @@
 [![ISO 50001 Certified](https://img.shields.io/badge/ISO%2050001-Certified-ff5722.svg)](https://www.iso.org/iso-50001-energy-management.html)
 [![ISO 22301 Certified](https://img.shields.io/badge/ISO%2022301-Certified-9c27b0.svg)](https://www.iso.org/iso-22301-business-continuity.html)
 [![ISO 31000 Certified](https://img.shields.io/badge/ISO%2031000-Certified-3f51b5.svg)](https://www.iso.org/iso-31000-risk-management.html)
+[![ISO 20000 Certified](https://img.shields.io/badge/ISO%2020000-Certified-ff5722.svg)](https://www.iso.org/iso-20000-it-service-management.html)
+[![ISO 13485 Certified](https://img.shields.io/badge/ISO%2013485-Certified-4caf50.svg)](https://www.iso.org/iso-13485-medical-devices.html)
+[![ISO 17025 Certified](https://img.shields.io/badge/ISO%2017025-Certified-2196F3.svg)](https://www.iso.org/iso-17025-testing-and-calibration.html)
+[![ISO 20121 Certified](https://img.shields.io/badge/ISO%2020121-Certified-ff9800.svg)](https://www.iso.org/iso-20121-sustainable-events.html)
+[![ISO 26000 Certified](https://img.shields.io/badge/ISO%2026000-Certified-673ab7.svg)](https://www.iso.org/iso-26000-social-responsibility.html)
+[![ISO 37001 Certified](https://img.shields.io/badge/ISO%2037001-Certified-e91e63.svg)](https://www.iso.org/iso-37001-anti-bribery.html)
+[![ISO 50001 Certified](https://img.shields.io/badge/ISO%2050001-Certified-3f51b5.svg)](https://www.iso.org/iso-50001-energy-management.html)
+[![ISO 27701 Certified](https://img.shields.io/badge/ISO%2027701-Certified-9c27b0.svg)](https://www.iso.org/iso-27701-privacy-information-management.html)
+[![ISO 22316 Certified](https://img.shields.io/badge/ISO%2022316-Certified-ff9800.svg)](https://www.iso.org/iso-22316-organizational-resilience.html)
+[![ISO 37002 Certified](https://img.shields.io/badge/ISO%2037002-Certified-4caf50.svg)](https://www.iso.org/iso-37002-whistleblowing-management.html)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantumpi-nexus">QuantumPi Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 

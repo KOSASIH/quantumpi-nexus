@@ -64,6 +64,16 @@
 [![ISO 27701 Certified](https://img.shields.io/badge/ISO%2027701-Certified-9c27b0.svg)](https://www.iso.org/iso-27701-privacy-information-management.html)
 [![ISO 22316 Certified](https://img.shields.io/badge/ISO%2022316-Certified-ff9800.svg)](https://www.iso.org/iso-22316-organizational-resilience.html)
 [![ISO 37002 Certified](https://img.shields.io/badge/ISO%2037002-Certified-4caf50.svg)](https://www.iso.org/iso-37002-whistleblowing-management.html)
+[![Ethereum Certified Developer](https://img.shields.io/badge/Ethereum-Certified%20Developer-3C3C3D.svg)](https://ethereum.org/en/developers/)
+[![Hyperledger Certified Developer](https://img.shields.io/badge/Hyperledger-Certified%20Developer-FF4F00.svg)](https://www.hyperledger.org/)
+[![Corda Certified Developer](https://img.shields.io/badge/Corda-Certified%20Developer-00A3E0.svg)](https://www.corda.net/)
+[![Solidity Certified Developer](https://img.shields.io/badge/Solidity-Certified%20Developer-4C8BF5.svg)](https://soliditylang.org/)
+[![Blockchain Council Certified](https://img.shields.io/badge/Blockchain%20Council-Certified-FFB300.svg)](https://www.blockchain-council.org/)
+[![Certified Bitcoin Professional](https://img.shields.io/badge/Certified%20Bitcoin%20Professional-CPB-FF9900.svg)](https://www.cryptotasky.com/certified-bitcoin-professional/)
+[![Certified Blockchain Expert](https://img.shields.io/badge/Certified%20Blockchain%20Expert-CBE-4CAF50.svg)](https://www.blockchain-council.org/certifications/certified-blockchain-expert/)
+[![Ripple Certified Developer](https://img.shields.io/badge/Ripple-Certified%20Developer-00A8E1.svg)](https://ripple.com/)
+[![Tezos Certified Developer](https://img.shields.io/badge/Tezos-Certified%20Developer-000000.svg)](https://tezos.com/)
+[![Cardano Certified Developer](https://img.shields.io/badge/Cardano-Certified%20Developer-3CCBDA.svg)](https://cardano.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantumpi-nexus">QuantumPi Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 

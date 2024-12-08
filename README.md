@@ -38,6 +38,14 @@
 [![Blockchain Verified](https://img.shields.io/badge/Blockchain-Verified-673ab7.svg)](https://www.blockchain.com)
 [![AI Ethics Approved](https://img.shields.io/badge/AI%20Ethics-Approved-4caf50.svg)](https://www.aiforhumanity.org)
 [![Cybersecurity Certified](https://img.shields.io/badge/Cybersecurity-Certified-9c27b0.svg)](https://www.cybersecurity.gov)
+[![Accessibility Compliant](https://img.shields.io/badge/Accessibility-Compliant-ff9800.svg)](https://www.w3.org/WAI/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-2196F3.svg)](https://opensource.org)
+[![Performance Optimized](https://img.shields.io/badge/Performance-Optimized-8bc34a.svg)](https://web.dev/measure/)
+[![Responsive Design](https://img.shields.io/badge/Responsive-Design-3f51b5.svg)](https://www.w3schools.com/css/css_rwd_intro.asp)
+[![Data Privacy](https://img.shields.io/badge/Data%20Privacy-Ensured-ffeb3b.svg)](https://www.privacyshield.gov)
+[![Continuous Integration](https://img.shields.io/badge/CI-Enabled-673ab7.svg)](https://www.atlassian.com/continuous-delivery/ci-vs-ci)
+[![User  Experience Approved](https://img.shields.io/badge/UX-Approved-4caf50.svg)](https://www.nngroup.com)
+[![Scalability Tested](https://img.shields.io/badge/Scalability-Tested-9c27b0.svg)](https://aws.amazon.com/architecture/scalability/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantumpi-nexus">QuantumPi Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 

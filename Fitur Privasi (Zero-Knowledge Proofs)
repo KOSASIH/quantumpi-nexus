@@ -1,0 +1,52 @@
+Contoh Circuit (Circom)
+
+pragma circom 2.0.0;
+
+template PrivateVote(n) {
+    signal input privateKey;
+    signal input vote; // 0 atau 1
+    signal output hash;
+
+    hash <== poseidon([privateKey, vote]);
+}
+
+b. Deployment di Node.js
+
+const snarkjs = require("snarkjs");
+
+async function generateProof(vote, privateKey) {
+    const input = {
+        privateKey: privateKey,
+        vote: vote,
+    };
+
+    const { proof, publicSignals } = await snarkjs.groth16.fullProve(
+        input,
+        "PrivateVote_js/PrivateVote.wasm",
+        "PrivateVote_final.zkey"
+    );
+
+    console.log("Proof:", proof);
+    console.log("Public Signals:", publicSignals);
+
+    return { proof, publicSignals };
+}
+Cara Integrasi
+
+1. Tata Kelola Terdesentralisasi:
+
+Deploy kontrak pintar menggunakan Solidity di blockchain kompatibel seperti Ethereum atau Pi Network.
+
+Tokenize mekanisme tata kelola.
+
+
+
+2. Integrasi AI:
+
+Jalankan prediksi wawasan melalui backend Python dan kirim data ke UI menggunakan REST API atau WebSocket.
+
+
+
+3. Privasi:
+
+Implementasikan zk-SNARKs untuk menjaga privasi suara dengan prover dan verifier.

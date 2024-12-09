@@ -1,0 +1,25 @@
+import numpy as np
+import tensorflow as tf
+from sklearn.ensemble import RandomForestClassifier
+
+# Simulasi data tata kelola
+data = np.array([
+    [0.8, 0.7, 1],  # Proposal sukses
+    [0.4, 0.5, 0],  # Proposal gagal
+    [0.9, 0.85, 1], # Proposal sukses
+    [0.3, 0.4, 0]   # Proposal gagal
+])
+
+X = data[:, :2]  # Fitur (dukungan dan durasi)
+y = data[:, 2]   # Label (0: gagal, 1: sukses)
+
+# Model prediksi
+model = RandomForestClassifier()
+model.fit(X, y)
+
+def predict_outcome(support_ratio, duration_ratio):
+    prediction = model.predict([[support_ratio, duration_ratio]])
+    return "Sukses" if prediction[0] == 1 else "Gagal"
+
+# Contoh prediksi
+print(predict_outcome(0.6, 0.7))  # Output: Sukses/Gagal

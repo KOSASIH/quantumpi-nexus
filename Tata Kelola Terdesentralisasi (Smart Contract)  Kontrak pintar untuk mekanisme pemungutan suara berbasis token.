@@ -1,0 +1,80 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract DecentralizedGovernance {
+    struct Proposal {
+        uint id;
+        string description;
+        uint voteCountYes;
+        uint voteCountNo;
+        address proposer;
+        uint endTime;
+        bool executed;
+    }
+
+    mapping(uint => Proposal) public proposals;
+    mapping(address => uint) public tokenBalances;
+    mapping(address => mapping(uint => bool)) public hasVoted;
+    uint public proposalCount;
+    address public owner;
+
+    event ProposalCreated(uint proposalId, string description, address proposer);
+    event Voted(uint proposalId, address voter, bool support);
+    event ProposalExecuted(uint proposalId);
+
+    constructor() {
+        owner = msg.sender;
+    }
+
+    modifier onlyOwner() {
+        require(msg.sender == owner, "Not authorized");
+        _;
+    }
+
+    function createProposal(string memory _description, uint _duration) public {
+        require(tokenBalances[msg.sender] > 0, "Must hold tokens to propose");
+
+        proposalCount++;
+        proposals[proposalCount] = Proposal({
+            id: proposalCount,
+            description: _description,
+            voteCountYes: 0,
+            voteCountNo: 0,
+            proposer: msg.sender,
+            endTime: block.timestamp + _duration,
+            executed: false
+        });
+
+        emit ProposalCreated(proposalCount, _description, msg.sender);
+    }
+
+    function vote(uint _proposalId, bool _support) public {
+        require(tokenBalances[msg.sender] > 0, "Must hold tokens to vote");
+        require(!hasVoted[msg.sender][_proposalId], "Already voted");
+        require(block.timestamp <= proposals[_proposalId].endTime, "Voting ended");
+
+        if (_support) {
+            proposals[_proposalId].voteCountYes++;
+        } else {
+            proposals[_proposalId].voteCountNo++;
+        }
+        hasVoted[msg.sender][_proposalId] = true;
+        emit Voted(_proposalId, msg.sender, _support);
+    }
+
+    function executeProposal(uint _proposalId) public onlyOwner {
+        Proposal storage proposal = proposals[_proposalId];
+        require(!proposal.executed, "Already executed");
+        require(block.timestamp > proposal.endTime, "Voting not ended");
+
+        if (proposal.voteCountYes > proposal.voteCountNo) {
+            // Logic for executing the proposal
+            proposal.executed = true;
+            emit ProposalExecuted(_proposalId);
+        }
+    }
+
+    function mintTokens(address _to, uint _amount) public onlyOwner {
+        tokenBalances[_to] += _amount;
+    }
+}

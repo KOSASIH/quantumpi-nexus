@@ -61,7 +61,7 @@ quantumpi-nexus-core/
 │   ├── smart_contracts/          # Smart contracts for blockchain interactions
 │   │   ├── ERC20_token.sol        # ERC20 token implementation
 │   │   ├── governance_contract.sol # Governance contract for proposals and voting
-│   │   ├── stability mechanism.sol # Stability mechanism contract
+│   │   ├── stability_mechanism.sol # Stability mechanism contract
 │   │   ├── lending_protocol.sol    # Smart contracts for lending and borrowing
 │   │   ├── insurance_protocol.sol  # Smart contracts for decentralized insurance
 │   │   └── yield_farming.sol       # Smart contracts for yield farming mechanisms

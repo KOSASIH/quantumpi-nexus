@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/quantumpi-nexus/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/quantumpi-nexus/tree/main)
+
 [![Stanford University Certified](https://img.shields.io/badge/Stanford%20University-Certified-ffcc00.svg)](https://www.stanford.edu)
 [![IMF Approved](https://img.shields.io/badge/IMF-Approved-007bff.svg)](https://www.imf.org)
 [![World Bank Supported](https://img.shields.io/badge/World%20Bank-Supported-009688.svg)](https://www.worldbank.org)

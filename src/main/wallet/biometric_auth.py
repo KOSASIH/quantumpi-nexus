@@ -1,5 +1,3 @@
-# src/main/wallet/biometric_auth.py
-
 import random
 
 class BiometricAuth:

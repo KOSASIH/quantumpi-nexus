@@ -1,5 +1,3 @@
-# src/governance/governance.py
-
 class Governance:
     def __init__(self):
         self.proposals = []
